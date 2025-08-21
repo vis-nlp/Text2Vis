@@ -1,7 +1,7 @@
 # Text2Vis: A Challenging and Diverse Benchmark for Generating Multimodal Visualizations from Text
 
 # Dataset
-The repository is still under process. For an early access to the data, email here: mizanur.york@gmail.com.
+The Text2Vis benchmark dataset can be downloaded from [this link](https://drive.google.com/drive/folders/1sA4ynL26i1ex8C-spcIVSlBpSZXcGjO6?usp=sharing).
 
 # Paper
 ArXiv- https://arxiv.org/abs/2507.19969 
