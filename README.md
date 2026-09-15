@@ -26,13 +26,16 @@ If you have any questions about this work, please contact **[Mizanur Rahman] **m
 # 📚 Citation
 If you use Text2Vis in your research, please cite:
 ```
-@misc{rahman2025text2vischallengingdiversebenchmark,
-      title={Text2Vis: A Challenging and Diverse Benchmark for Generating Multimodal Visualizations from Text}, 
-      author={Mizanur Rahman and Md Tahmid Rahman Laskar and Shafiq Joty and Enamul Hoque},
-      year={2025},
-      eprint={2507.19969},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2507.19969}, 
+@inproceedings{rahman-etal-2025-text2vis,
+    title = "{T}ext2{V}is: A Challenging and Diverse Benchmark for Generating Multimodal Visualizations from Text",
+    author = "Rahman, Mizanur  and Laskar, Md Tahmid Rahman  and Joty, Shafiq  and Hoque, Enamul",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1622/",
+    doi = "10.18653/v1/2025.emnlp-main.1622",
+    pages = "31849--31874"
 }
 ```
