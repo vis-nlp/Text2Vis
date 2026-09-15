@@ -17,7 +17,7 @@ You can access the dataset through the following links:
 
 ## 📄 Paper
 
-- 📚 [ArXiv Version](https://arxiv.org/abs/2507.19969)  
+- 📚 [EMNLP version:](https://aclanthology.org/2025.emnlp-main.1622.pdf)  
 ---
 
 # 💬 Contact
